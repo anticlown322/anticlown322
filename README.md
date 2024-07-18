@@ -1,15 +1,10 @@
-<h1 align="center">Anticlown332 a.k.a. klwnfish</h1>
-
 ![Impressive picture](/assets/images/impressive.png)
 
-<h3 align="center">🙄  <sup>- вот это кастом...</sup>    <sub>он шо, дурны? -</sub>  🤔</h3>
+<h1 align="center">Anticlown332 a.k.a. klwnfish</h1>
 
-<h3 align="center">I'm Andrei, Software engineer from Belarus</h3>
+<h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=anticlown322&label=Profile%20views&color=0e75b6&style=flat" 
-         alt="anticlown322" />
-</p>
+<h2 align="center">I'm Andrei, Software engineer from Belarus</h2>
 
 - 🔭 I’m currently working on **bot automatization**
 
@@ -17,19 +12,8 @@
 
 - 💬 Ask me about **Delphi, Embedded**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/andrey-karas" target="blank">
-        <img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-            alt="andrey-karas" 
-            height="30" 
-            width="40" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a>
@@ -110,30 +94,27 @@
     </a>
 </p>
 
-<details>
-  <summary>&#128584; GitHub Stats</summary>
-<p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=anticlown322&show_icons=true&locale=en&layout=compact" 
-        alt="anticlown322" />
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=anticlown322&label=Profile%20views&color=0e75b6&style=flat" 
+         alt="anticlown322" />
 </p>
-</details>
 
 <details>
-  <summary>&#128584; GitHub Stats</summary>
-<p>
-    &nbsp;
-    <img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=anticlown322&show_icons=true&locale=en" 
-        alt="anticlown322" />
-</p>
-</details>
-
-<details>
-  <summary>&#128584; GitHub Stats</summary>
-<p>
-    <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=anticlown322&" 
-        alt="anticlown322" />
-</p>
+    <summary> GitHub Stats</summary>
+    <p>
+        &nbsp;
+        <img align="center" 
+            src="https://github-readme-stats.vercel.app/api?username=anticlown322&show_icons=true&locale=en" 
+            alt="anticlown322" />
+    </p>
+    <p>
+        <img align="center" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=anticlown322&" 
+            alt="anticlown322" />
+    </p>
+    <p>
+        <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=anticlown322&show_icons=true&locale=en&layout=compact" 
+            alt="anticlown322" />
+    </p>
 </details>
