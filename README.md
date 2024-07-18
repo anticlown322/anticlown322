@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Delphi, Embedded**
 
-##Languages
+## Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -47,7 +47,7 @@
     </a>
 </div>
 
-##Tools
+## Tools
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
     </a>
 </div>
 
-##Stats
+## Stats
 
 <details>
     <summary>GitHub</summary>
