@@ -1,10 +1,10 @@
-![Impressive picture](/assets/images/impressive.png)
-
 <h1 align="center">Anticlown332 a.k.a. klwnfish</h1>
 
-<h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
+![Impressive picture](/assets/images/impressive.png)
 
-<h2 align="center">I'm Andrei, Software engineer from Belarus</h2>
+<h3 align="center">🙄  <sup>`- вот это кастом...`</sup><sub>`он шо, дурны? -`</sub>  🤔</h3>
+
+<h3 align="center">I'm Andrei, Software engineer from Belarus</h3>
 
 - 🔭 I’m currently working on **bot automatization**
 
