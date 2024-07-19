@@ -1,10 +1,10 @@
-<h1 align="center">Anticlown332 a.k.a. klwnfish</h1>
+<h1 align="center">🤡Anticlown322🤡</h1>
 
 ![Impressive picture](/assets/images/impressive.png)
 
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-<h3 align="center">I'm Andrei, Software engineer from Belarus</h3>
+<h3 align="center">I'm Andrei, software engineer from Belarus</h3>
 
 - 🔭 I’m currently working on **bot automatization**
 
@@ -46,6 +46,8 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino C" />
     </a>
 </div>
+
+- Delphi(Object Pascal)
 
 ## Tools
 
@@ -91,29 +93,38 @@
     </a>
 </div>
 
+- PhpMyAdmin
+- SQLite
+- AVR Studio + Proteus
+- Selenium
+
 ## Stats
 
-<details>
-    <summary>GitHub</summary>
-    <p>
-        &nbsp;
-        <img align="center" 
-            src="https://github-readme-stats.vercel.app/api?username=anticlown322&show_icons=true&locale=en" 
-            alt="anticlown322" />
-    </p>
-    <p>
-        <img align="center" 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=anticlown322&" 
-            alt="anticlown322" />
-    </p>
-    <p>
-        <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=anticlown322&show_icons=true&locale=en&layout=compact" 
-            alt="anticlown322" />
-    </p>
-</details>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <details>
+        <summary>GitHub</summary>
+        <p>
+            &nbsp;
+            <img align="center" 
+                src="https://github-readme-stats.vercel.app/api?username=anticlown322&show_icons=true&locale=en" 
+                alt="anticlown322" />
+        </p>
+        <p>
+            <img align="center" 
+                src="https://github-readme-streak-stats.herokuapp.com/?user=anticlown322&" 
+                alt="anticlown322" />
+        </p>
+        <p>
+            <img align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=anticlown322&show_icons=true&locale=en&layout=compact" 
+                alt="anticlown322" />
+        </p>
+    </details>
+</div>
 
-<details>
-    <summary>Profile</summary>
-Coming soon...
-</details>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <details>
+        <summary>Profile</summary>
+    Coming soon...
+    </details>
+</div>
