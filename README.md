@@ -1,4 +1,4 @@
-<h1 align="center">🤡Anticlown322🤡</h1>
+<h1 align="center">Anticlown322</h1>
 
 ![Impressive picture](/assets/images/impressive.png)
 
@@ -46,6 +46,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino C" />
     </a>
 </div>
+<br>
 
 - Delphi(Object Pascal)
 
@@ -92,6 +93,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
 </div>
+<br>
 
 - PhpMyAdmin
 - SQLite
@@ -115,12 +117,14 @@
                 alt="anticlown322" />
         </p>
         <p>
-            <img align="left"
+            <img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=anticlown322&show_icons=true&locale=en&layout=compact" 
                 alt="anticlown322" />
         </p>
     </details>
 </div>
+
+<br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <details>
