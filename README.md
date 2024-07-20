@@ -100,6 +100,14 @@
 - AVR Studio + Proteus
 - Selenium
 
+## Links and contacts
+
+- 💡 My [Blog](https://anticlown322.github.io)
+- 📫 My gmail: karasandrey2005@gmail.com
+- 📞 My [Telegram](https://t.me/klwnfish)
+- 👨‍💻 My [LinkedIn](https://www.linkedin.com/in/andrey-karas/)
+- 🎲 My [Pastebin](https://pastebin.com/u/anticlown)
+
 ## Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
