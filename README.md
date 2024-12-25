@@ -4,9 +4,7 @@
 
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-<h3 align="center">I'm Andrey, software engineer from Belarus</h3>
-
-![Github](https://img.shields.io/github/followers/anticlown322?label=Follow&style=social)
+<h1 align="center">I'm Andrey, software engineer from Belarus</h1>
 
 ## Tech stack
 
