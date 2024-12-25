@@ -1,4 +1,3 @@
-<div>
 <h1 align="center">Anticlown322</h1>
 
 ![Impressive picture](/assets/images/impressive.png)
@@ -7,85 +6,46 @@
 
 <h3 align="center">I'm Andrey, software engineer from Belarus</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core**
-</div>
+<h3>[![Github](https://img.shields.io/github/followers/edpelaezc?label=Follow&style=social)](https://github.com/edpelaezc)</h3>
 
 ## Tech stack
 
-![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=ASP.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat-square&logo=ASP.NET-Core&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat-square&logo=Entity-Framework&color=353535)  
-![Bootstrap](https://img.shields.io/badge/-MSSQL-05122A?style=flat-square&logo=MSSQL&color=353535)
-![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
-![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
-![Bootstrap](https://img.shields.io/badge/-gRPC-05122A?style=flat-square&logo=gRPC&color=353535)
-![Bootstrap](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat-square&logo=ElasticSearch&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Logstash-05122A?style=flat-square&logo=Logstash&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Kibana-05122A?style=flat-square&logo=Kibana&color=353535)
+![Bootstrap](https://img.shields.io/badge/.NET?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/ASP.NET?style=flat-square&logo=ASP.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/ASP.NET_Core?style=flat-square&logo=ASP.NET-Core&color=353535)
+![Bootstrap](https://img.shields.io/badge/Entity_Framework?style=flat-square&logo=Entity-Framework&color=353535)
+![Bootstrap](https://img.shields.io/badge/MSSQL?style=flat-square&logo=MSSQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/PostgreSQL?style=flat-square&logo=PostgreSQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/SQL?style=flat-square&logo=SQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/Git?style=flat-square&logo=Git&color=353535)
+![Bootstrap](https://img.shields.io/badge/Docker?style=flat-square&logo=Docker&color=353535)
+![Bootstrap](https://img.shields.io/badge/ElasticSearch?style=flat-square&logo=ElasticSearch&color=353535)
+![Bootstrap](https://img.shields.io/badge/Logstash?style=flat-square&logo=Logstash&color=353535)
+![Bootstrap](https://img.shields.io/badge/Kibana?style=flat-square&logo=Kibana&color=353535)
 
 ## Familiar with
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-    </a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-    </a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
-    </a>    
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-    </a>
-    <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-    </a>
-</div>
-<br>
-
-- Delphi(Object Pascal)
-- Rad Server
-- SQLite
-- PhpMyAdmin
-- AVR Studio + Proteus
-- Selenium
+![Bootstrap](https://img.shields.io/badge/Java?style=flat-square&logo=Kibana&color=353535)
+![Bootstrap](https://img.shields.io/badge/Selenium?style=flat-square&logo=selenium&color=353535)
+![Bootstrap](https://img.shields.io/badge/PHP?style=flat-square&logo=php&color=353535)
+![Bootstrap](https://img.shields.io/badge/PhpMyAdmin?style=flat-square&logo=phpmyadmin&color=353535)
+![Bootstrap](https://img.shields.io/badge/Python?style=flat-square&logo=python&color=353535)
+![Bootstrap](https://img.shields.io/badge/HTML5?style=flat-square&logo=html5&color=353535)
+![Bootstrap](https://img.shields.io/badge/CSS?style=flat-square&logo=css&color=353535)
+![Bootstrap](https://img.shields.io/badge/JS?style=flat-square&logo=javascript&color=353535)
+![Bootstrap](https://img.shields.io/badge/React?style=flat-square&logo=react&color=353535)
+![Bootstrap](https://img.shields.io/badge/Vue?style=flat-square&logo=vuedotjs&color=353535)
+![Bootstrap](https://img.shields.io/badge/Figma?style=flat-square&logo=figma&color=353535)
+![Bootstrap](https://img.shields.io/badge/C++?style=flat-square&logo=cplusplus&color=353535)
+![Bootstrap](https://img.shields.io/badge/C?style=flat-square&logo=c&color=353535)
+![Bootstrap](https://img.shields.io/badge/Linux?style=flat-square&logo=linux&color=353535)
+![Bootstrap](https://img.shields.io/badge/GNU_Bash?style=flat-square&logo=gnubash&color=353535)
+![Bootstrap](https://img.shields.io/badge/Arduino?style=flat-square&logo=arduino&color=353535)
+![Bootstrap](https://img.shields.io/badge/AVR_Studio?style=flat-square&logo=Kibana&color=353535)
+![Bootstrap](https://img.shields.io/badge/Proteus?style=flat-square&logo=proteus&color=353535)
+![Bootstrap](https://img.shields.io/badge/Delphi?style=flat-square&logo=delphi&color=353535)
+![Bootstrap](https://img.shields.io/badge/Rad_Server?style=flat-square&logo=radstudio&color=353535)
+![Bootstrap](https://img.shields.io/badge/SQLite?style=flat-square&logo=sqlite&color=353535)
 
 ## Links and contacts
 
