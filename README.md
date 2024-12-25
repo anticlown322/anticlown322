@@ -1,7 +1,5 @@
 ## ![Impressive picture](/assets/images/impressive.png)
 
----
-
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
 <h1 align="center">I'm Andrey, software engineer from Belarus</h1>
