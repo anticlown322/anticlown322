@@ -1,15 +1,13 @@
 <div>
+<h1 align="center">Anticlown322</h1>
 
-    <h1 align="center">Anticlown322</h1>
+![Impressive picture](/assets/images/impressive.png)
 
-    ![Impressive picture](/assets/images/impressive.png)
+<h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-    <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
+<h3 align="center">I'm Andrey, software engineer from Belarus</h3>
 
-    <h3 align="center">I'm Andrey, software engineer from Belarus</h3>
-
-    - 🌱 I’m currently learning **ASP.NET Core**
-
+- 🌱 I’m currently learning **ASP.NET Core**
 </div>
 
 ## Tech stack
@@ -27,18 +25,6 @@
 ![Bootstrap](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat-square&logo=ElasticSearch&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Logstash-05122A?style=flat-square&logo=Logstash&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Kibana-05122A?style=flat-square&logo=Kibana&color=353535)
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-    </a>
-</div>
 
 ## Familiar with
 
