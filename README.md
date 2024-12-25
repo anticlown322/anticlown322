@@ -1,10 +1,11 @@
-<h1 align="center">Anticlown322</h1>
+## ![Impressive picture](/assets/images/impressive.png)
 
-![Impressive picture](/assets/images/impressive.png)
+---
 
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
 <h1 align="center">I'm Andrey, software engineer from Belarus</h1>
+</br>
 
 ## Tech stack
 
