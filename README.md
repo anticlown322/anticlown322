@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm Andrey, software engineer from Belarus</h3>
 
-<h3>[![Github](https://img.shields.io/github/followers/edpelaezc?label=Follow&style=social)](https://github.com/edpelaezc)</h3>
+<h3>![Github](https://img.shields.io/github/followers/anticlown322?label=Follow&style=social)</h3>
 
 ## Tech stack
 
