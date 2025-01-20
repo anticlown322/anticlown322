@@ -2,15 +2,17 @@
 
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-<h1 align="center">I'm Andrey, software engineer from Belarus</h1>
+<h1 align="center">I'm Andrey, .NET Backend developer</h1>
 </br>
 
 ## Tech stack
 
 ![Bootstrap](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-.NET_Framework-05122A?style=flat-square&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=ASP.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat-square&logo=ASP.NET-Core&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Entity_Framework-05122A?style=flat-square&logo=Entity-Framework&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Web_API-05122A?style=flat-square&logo=ASP.NET-Core&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Entity_Framework-05122A?style=flat-square&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Dapper-05122A?style=flat-square&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-MSSQL-05122A?style=flat-square&logo=MSSQL&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535)
@@ -19,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat-square&logo=ElasticSearch&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Logstash-05122A?style=flat-square&logo=Logstash&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Kibana-05122A?style=flat-square&logo=Kibana&color=353535)
+![Bootstrap](https://img.shields.io/badge/-WPF-05122A?style=flat-square&color=353535)
 
 ## Familiar with
 
@@ -47,7 +50,7 @@
 ## Links and contacts
 
 - 💡 My [Blog](https://anticlown322.github.io)
-- 📫 My mail: karasandrey2005@gmail.com
+- 📫 My mail: andrei.karas.work@gmail.com
 - 📞 My [Telegram](https://t.me/klwnfish)
-- 👨‍💻 My [LinkedIn](https://www.linkedin.com/in/andrey-karas/)
+- 👨‍💻 My [LinkedIn](https://www.linkedin.com/in/andreykaras/)
 - 🎲 My [Pastebin](https://pastebin.com/u/anticlown)
