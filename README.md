@@ -2,50 +2,33 @@
 
 <h3 align="center">🙄  <sup>- вот это кастом...</sup><sub>он шо, дурны? -</sub>  🤔</h3>
 
-<h1 align="center">I'm Andrey, .NET Backend developer</h1>
-</br>
+<h1 align="center">I'm Andrei, Fullstack developer</h1>
 
-## Tech stack
+### Tech stack
 
 ![Bootstrap](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-.NET_Framework-05122A?style=flat-square&color=353535)
-![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=ASP.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Web_API-05122A?style=flat-square&logo=ASP.NET-Core&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Entity_Framework-05122A?style=flat-square&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Dapper-05122A?style=flat-square&color=353535)
-![Bootstrap](https://img.shields.io/badge/-MSSQL-05122A?style=flat-square&logo=MSSQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/-.NET_Core-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Entity_Framework-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-MediatR-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Hangfire-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Identity-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Ocelot-05122A?style=flat-square&logo=.NET&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
-![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=redis&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Apache_Kafka-05122A?style=flat-square&logo=ApacheKafka&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat-square&logo=ElasticSearch&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Logstash-05122A?style=flat-square&logo=Logstash&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Kibana-05122A?style=flat-square&logo=Kibana&color=353535)
-![Bootstrap](https://img.shields.io/badge/-WPF-05122A?style=flat-square&color=353535)
-
-## Familiar with
-
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Kibana&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=selenium&color=353535)
-![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&color=353535)
-![Bootstrap](https://img.shields.io/badge/-PhpMyAdmin-05122A?style=flat-square&logo=phpmyadmin&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&color=353535)
-![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&color=353535)
-![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css&color=353535)
-![Bootstrap](https://img.shields.io/badge/-JS-05122A?style=flat-square&logo=javascript&color=353535)
-![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Vue_JS-05122A?style=flat-square&logo=vuedotjs&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=figma&color=353535)
-![Bootstrap](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=cplusplus&color=353535)
-![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
-![Bootstrap](https://img.shields.io/badge/-GNU_Bash-05122A?style=flat-square&logo=gnubash&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=arduino&color=353535)
-![Bootstrap](https://img.shields.io/badge/-AVR_Studio-05122A?style=flat-square&logo=Kibana&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Proteus-05122A?style=flat-square&logo=proteus&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Delphi-05122A?style=flat-square&logo=delphi&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Rad_Server-05122A?style=flat-square&logo=radstudio&color=353535)
-![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=typescript&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=angular&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Sass-05122A?style=flat-square&logo=sass&color=353535)
+![Bootstrap](https://img.shields.io/badge/-xUnit-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Insomnia-05122A?style=flat-square&logo=insomnia&color=353535)
 
 ## Links and contacts
 
